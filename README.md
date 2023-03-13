@@ -6,7 +6,9 @@ It is about developing a system in OPENGL that deals with 3D vision
 The system / game Runner Arcade Ball is an arcade game in which there is a long and swinging space, the space contains additional elements:
 
 • Obstacles (pits, walls).
+
 • Coins - which actually increases the player's score.
+
 • Clock – adds time to continue the game and win a high score.
 
 The user/player must move from the obstacles and pass them successfully.
